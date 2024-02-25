@@ -26,6 +26,9 @@ languages:
           series: series
         menu:
             main:
+                - name: Research
+                  url: research/
+                  weight: 5
                 - name: Archive
                   url: archives
                   weight: 5
