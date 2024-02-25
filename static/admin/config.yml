@@ -17,6 +17,24 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "teaching"
+    label: "Teaching"
+    folder: "content/teaching"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "cv"
+    label: "CV"
+    folder: "content/cv"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+
   - name: "posts"
     label: "Posts"
     folder: "content/posts"
