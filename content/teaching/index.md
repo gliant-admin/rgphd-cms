@@ -15,7 +15,7 @@ U﻿sing rich text:
 >
 > \-﻿ Aristotle
 
-h﻿ere's a link: [www.google.com](www.google.com)
+h﻿ere's a link: [](www.google.com)<https://www.google.com>
 
 h﻿ere's a picture:
 
