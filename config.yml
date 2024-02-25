@@ -80,7 +80,7 @@ params:
               url: research
             - name: Teaching
               url: teaching
-            - name: CV
+            - name: Curriculum Vitae
               url: cv
 
     homeInfoParams:
