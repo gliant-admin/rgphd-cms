@@ -46,7 +46,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Ross Gilmore"
-    author: Ross Gilmore
+    author:
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
