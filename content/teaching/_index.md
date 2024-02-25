@@ -1,4 +1,4 @@
 ---
 title: Teaching
 ---
-T﻿his is the teaching section.
+This is the teaching section.
