@@ -16,3 +16,7 @@ U﻿sing rich text:
 > \-﻿ Aristotle
 
 h﻿ere's a link: [www.google.com](www.google.com)
+
+h﻿ere's a picture:
+
+![](/images/uploads/james-webb-nebula-full-small.png "James Webb")
