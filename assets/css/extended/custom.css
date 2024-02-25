@@ -1,0 +1,16 @@
+.lang-switch {
+    display: none;
+}
+
+.profile_inner span {
+    max-width: 340px;
+}
+
+.profile_inner img {
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.footer {
+    display: none;
+}
