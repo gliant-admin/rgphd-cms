@@ -1,8 +1,18 @@
 ---
 title: Teaching
 ---
-#﻿ Testing Markdown
+**T﻿esting**
 
-#﻿# Testing the markdown
+T﻿esting to see whether things are rendered properly.
 
-#﻿## Testing the markdown
+U﻿sing rich text:
+
+1. I﻿tem
+2. I﻿tem
+3. I﻿tem
+
+> "﻿Here's a quote."
+>
+> \-﻿ Aristotle
+
+h﻿ere's a link: [www.google.com](www.google.com)
