@@ -21,15 +21,19 @@ menu:
   main:
     - name: Research
       url: research/
-      weight: 5
+      weight: 1
 
     - name: Teaching
       url: teaching/
-      weight: 5
+      weight: 2
 
     - name: CV
       url: cv/
-      weight: 5       
+      weight: 3
+
+    - name: Blog
+      url: posts/
+      weight: 4      
 
     - name: Search
       url: search/
