@@ -72,15 +72,18 @@ params:
     profileMode:
         enabled: true
         title: Ross Gilmore
+        subtitle: I'm a Ph.D. candidate researcher at the University of Kansas. My work focuses on Plato...
         imageUrl: "ross.png"
         imageTitle: Ross Gilmore
-        # imageWidth: 120
-        # imageHeight: 120
+        imageWidth: 340
+        imageHeight: 340
         buttons:
-            - name: Archives
-              url: archives
-            - name: Tags
-              url: tags
+            - name: Resarch
+              url: research
+            - name: Teaching
+              url: teaching
+            - name: CV
+              url: cv
 
     homeInfoParams:
         Title: "Ross Gilmore"
