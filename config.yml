@@ -29,19 +29,19 @@ languages:
                 - name: Research
                   url: research/
                   weight: 5
-                - name: Archive
-                  url: archives
+                - name: Teaching
+                  url: teaching/
                   weight: 5
+
+                - name: CV
+                  url: cv/
+                  weight: 5
+                
                 - name: Search
                   url: search/
                   weight: 10
-                - name: Tags
-                  url: tags/
-                  weight: 10
-                - name: WiKi
-                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-                - name: Discord
-                  url: https://discord.gg/ahpmTvhVmp
+                
+                
 
     fr:
         languageName: ":fr:"
