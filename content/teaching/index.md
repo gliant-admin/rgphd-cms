@@ -1,4 +1,8 @@
 ---
 title: Teaching
 ---
-This is the teaching section.
+#﻿ Testing Markdown
+
+#﻿# Testing the markdown
+
+#﻿## Testing the markdown
